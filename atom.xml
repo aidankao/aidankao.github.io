@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AidanKao&#39;s Blog</title>
+  
+  <subtitle>探勘。迭代。長期主義者</subtitle>
+  <link href="https://aidankao.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://aidankao.github.io/"/>
+  <updated>2023-01-06T16:16:10.980Z</updated>
+  <id>https://aidankao.github.io/</id>
+  
+  <author>
+    <name>Aidan Kao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>真正的「需求 」</title>
+    <link href="https://aidankao.github.io/2022/09/03/real-requirements/"/>
+    <id>https://aidankao.github.io/2022/09/03/real-requirements/</id>
+    <published>2022-09-02T16:00:00.000Z</published>
+    <updated>2023-01-06T16:16:10.980Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;某天經過誠品，剛好一眼就看到這本名叫《放棄減肥》的書，書名很聳動，卻不可否認的吸人眼球。於是就買下來，直到這幾天把它讀完。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在《放棄減肥》中，提到了自然而然的生活方式，也提到了身體自我調適，這中間最重要的是</summary>
+        
+      
+    
+    
+    
+    <category term="READING" scheme="https://aidankao.github.io/categories/READING/"/>
+    
+    
+    <category term="books" scheme="https://aidankao.github.io/tags/books/"/>
+    
+  </entry>
+  
+</feed>
